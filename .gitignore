@@ -1,0 +1,8 @@
+/bin/
+coverage.out
+coverage.html
+*.prof
+*.pprof
+*.trace
+*.test
+/kvd/kvd

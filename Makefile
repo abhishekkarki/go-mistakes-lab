@@ -54,4 +54,3 @@ run:
 tools:
 	go install github.com/golangci/golangci-lint/v2/cmd/golangci-lint@latest
 	go install golang.org/x/perf/cmd/benchstat@latest
-

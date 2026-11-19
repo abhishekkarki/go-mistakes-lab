@@ -52,4 +52,3 @@ On Day 11, add goleak with `go get go.uber.org/goleak`. On Day 16, add errgroup 
 - `go.mod` says `go 1.24`, so loop variables are per-iteration. To reproduce #32 and #63, use a scratch module with `go 1.21`.
 - #76: timers are GC-able since Go 1.23, so measure instead of trusting the book.
 - #100: GOMAXPROCS respects cgroup CPU limits since Go 1.25. Compare 1.24 and 1.25 in Docker.
-

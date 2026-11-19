@@ -126,4 +126,3 @@ Weekly review: reread this week and last week, then explain 5 random ones from m
 - [ ] #45 Returning a nil receiver (Day 38): 
 - [ ] #46 Using a filename as a function input (Day 38): 
 - [ ] #47 Ignoring how defer arguments and receivers are evaluated (Day 38): 
-
